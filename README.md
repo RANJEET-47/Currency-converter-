@@ -4,7 +4,7 @@ A simple and interactive Currency Converter that allows users to convert between
 
 ## Demo
 
-Visit the live demo of the Currency Converter [here](#) *(add your live demo URL if available)*.
+Visit the live demo of the Currency Converter [here](#) *(currency-converter-three-phi-85.vercel.app)*.
 
 ## Features
 
